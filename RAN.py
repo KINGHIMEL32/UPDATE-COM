@@ -1086,7 +1086,7 @@ for xd in range(10000):
     ugen.append(uaku2)
 
 logo = """
-        \033[1;91m                            ─━㋱ASSALAMUALAIKUM㋱━─ 
+        \033[1;91m                    ─━㋱ASSALAMUALAIKUM㋱━─ 
   \033[1;90m                         
   \033[1;91m
   \033[1;91m   ##     ##  ##  ##         ## ###### ##      
